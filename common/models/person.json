@@ -21,7 +21,6 @@
     "career": {
       "type": "string"
     }
-    }
   },
   "validations": [],
   "relations": {
