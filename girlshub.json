@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Person": 1,
+    "Like": 1,
+    "Client": 2
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Person": {},
+    "Like": {},
+    "Client": {
+      "1": "{\"realm\":\"string\",\"username\":\"string\",\"password\":\"$2a$10$MhQu9AhLklpVAZeuL/xNpuACmMAFll7cLxJes3Ui93ltj9vPfSRma\",\"email\":\"string@gmail.com\",\"emailVerified\":false,\"client_id\":0,\"id\":1}"
+    }
+  }
+}

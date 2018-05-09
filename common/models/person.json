@@ -23,6 +23,10 @@
     },
     "address": {
       "type": "string"
+    },
+    "client_id": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
