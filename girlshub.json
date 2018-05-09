@@ -5,7 +5,7 @@
     "ACL": 1,
     "RoleMapping": 1,
     "Role": 1,
-    "Person": 16,
+    "Person": 17,
     "Like": 9,
     "Client": 2
   },
@@ -27,10 +27,10 @@
       "12": "{\"name\":\"Ileana Mejia Villalobos\",\"photo_url\":\"https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/27655058_1613471878741554_4574600508519017336_n.jpg?_nc_cat=0&oh=df66d90f0005389cdf2a0eb59793f05c&oe=5B4FF2F3\",\"age\":\"20\",\"career\":\"NPI\",\"id\":12}",
       "13": "{\"name\":\"Karelia Mendieta\",\"photo_url\":\"https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/26165185_1239408579492478_8810697770778346888_n.jpg?_nc_cat=0&oh=5eb063973e3befc033d06172ee8929fe&oe=5B54A31E\",\"age\":\"20\",\"career\":\"NPI\",\"id\":13}",
       "14": "{\"name\":\"Elizabeth Castellon Calero\",\"photo_url\":\"https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/29343096_1614119798704451_8908900565870706688_n.jpg?_nc_cat=0&oh=1785f157f298d4d6c581534f48ef46c5&oe=5B8E75BA\",\"age\":\"20\",\"career\":\"Arquitectura\",\"id\":14}",
-      "15": "{\"name\":\"Emily López Brenes\",\"photo_url\":\"https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/27655279_1607155929378083_551853843658552541_n.jpg?_nc_cat=0&oh=1c5888b06112c29780b5a4ab79124996&oe=5B8D1EEC\",\"age\":\"20\",\"career\":\"Diseño gráfico\",\"id\":15}"
+      "15": "{\"name\":\"Emily López Brenes\",\"photo_url\":\"https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/27655279_1607155929378083_551853843658552541_n.jpg?_nc_cat=0&oh=1c5888b06112c29780b5a4ab79124996&oe=5B8D1EEC\",\"age\":\"20\",\"career\":\"Diseño gráfico\",\"id\":15}",
+      "16": "{\"name\":\"Ashley Zeledon\",\"photo_url\":\"https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/17264858_1211227382328658_4978057572696881957_n.jpg?_nc_cat=0&oh=087d95b0145651da4ebc208a05d92f60&oe=5B97159C\",\"age\":\"18\",\"career\":\"NPI\",\"id\":16}"
     },
     "Like": {
-
       "7": "{\"name\":\"Coger\",\"person_id\":15,\"id\":7}",
       "8": "{\"name\":\"Coyotear\",\"person_id\":15,\"id\":8}"
     },
