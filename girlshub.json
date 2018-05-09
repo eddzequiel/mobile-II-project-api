@@ -15,11 +15,7 @@
     "ACL": {},
     "RoleMapping": {},
     "Role": {},
-    "Person": {
-      "1": "{\"name\":\"string\",\"photo_url\":\"string\",\"age\":\"string\",\"phone\":\"string\",\"address\":\"string\",\"client_id\":\"1\",\"id\":1}",
-      "2": "{\"name\":\"string\",\"photo_url\":\"string\",\"age\":\"string\",\"phone\":\"string\",\"address\":\"string\",\"client_id\":\"1\",\"id\":2}",
-      "3": "{\"name\":\"string\",\"photo_url\":\"string\",\"age\":\"string\",\"phone\":\"string\",\"address\":\"string\",\"client_id\":\"1\",\"id\":3}"
-    },
+    "Person": {},
     "Like": {
       "1": "{\"name\":\"string\",\"person_id\":1,\"id\":1}",
       "2": "{\"name\":\"string\",\"person_id\":1,\"id\":2}",

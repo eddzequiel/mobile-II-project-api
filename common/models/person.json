@@ -18,15 +18,9 @@
       "type": "string",
       "required": true
     },
-    "phone": {
+    "career": {
       "type": "string"
-    },
-    "address": {
-      "type": "string"
-    },
-    "client_id": {
-      "type": "string",
-      "required": true
+    }
     }
   },
   "validations": [],
