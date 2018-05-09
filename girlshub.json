@@ -5,8 +5,8 @@
     "ACL": 1,
     "RoleMapping": 1,
     "Role": 1,
-    "Person": 1,
-    "Like": 1,
+    "Person": 4,
+    "Like": 7,
     "Client": 2
   },
   "models": {
@@ -15,8 +15,19 @@
     "ACL": {},
     "RoleMapping": {},
     "Role": {},
-    "Person": {},
-    "Like": {},
+    "Person": {
+      "1": "{\"name\":\"string\",\"photo_url\":\"string\",\"age\":\"string\",\"phone\":\"string\",\"address\":\"string\",\"client_id\":\"1\",\"id\":1}",
+      "2": "{\"name\":\"string\",\"photo_url\":\"string\",\"age\":\"string\",\"phone\":\"string\",\"address\":\"string\",\"client_id\":\"1\",\"id\":2}",
+      "3": "{\"name\":\"string\",\"photo_url\":\"string\",\"age\":\"string\",\"phone\":\"string\",\"address\":\"string\",\"client_id\":\"1\",\"id\":3}"
+    },
+    "Like": {
+      "1": "{\"name\":\"string\",\"person_id\":1,\"id\":1}",
+      "2": "{\"name\":\"string\",\"person_id\":1,\"id\":2}",
+      "3": "{\"name\":\"string\",\"person_id\":1,\"id\":3}",
+      "4": "{\"name\":\"string\",\"person_id\":1,\"id\":4}",
+      "5": "{\"name\":\"string\",\"person_id\":1,\"id\":5}",
+      "6": "{\"name\":\"string\",\"person_id\":1,\"id\":6}"
+    },
     "Client": {
       "1": "{\"realm\":\"string\",\"username\":\"string\",\"password\":\"$2a$10$MhQu9AhLklpVAZeuL/xNpuACmMAFll7cLxJes3Ui93ltj9vPfSRma\",\"email\":\"string@gmail.com\",\"emailVerified\":false,\"client_id\":0,\"id\":1}"
     }
